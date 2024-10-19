@@ -25,6 +25,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Dataset/
+Dataset_copy/
+face-recognition-master/
+INSOFE_2021_DATASET_PHOTOS/
+face_recog_application_insofe/
+testing/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
