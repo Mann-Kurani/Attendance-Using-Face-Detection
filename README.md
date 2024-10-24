@@ -1,6 +1,6 @@
 # Attendance-Using-Face-Detection
 
-A facial recognition-based attendance system that uses machine learning to detect and recognize students from uploaded images. This project leverages the power of face detection and facial embeddings to mark attendance based on the recognized faces.
+A facial recognition-based attendance system that uses machine learning to detect and recognize students from uploaded images. This project leverages the power of face detection and facial embeddings to mark attendance based on the recognized faces automatically.
 
 ## Features
 
